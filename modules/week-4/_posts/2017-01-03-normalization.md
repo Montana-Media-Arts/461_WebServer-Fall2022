@@ -1,6 +1,6 @@
 ---
 title: Normalization
-module: 6
+module: 4
 jotted: false
 ---
 
