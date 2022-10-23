@@ -6,4 +6,4 @@ jotted: false
 
 # Weekly Conclusions
 
-This week we looked how to use PHP and mySQL to accomplish similar database work.
+This week we continued working on the YMCA site.
