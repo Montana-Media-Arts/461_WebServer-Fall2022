@@ -6,4 +6,4 @@ jotted: false
 
 # Weekly Conclusions
 
-Hopefully we made some good progress on understanding how to condense PHP now.
+Hopefully we are feeling pretty good about what we are doing for the login system.
