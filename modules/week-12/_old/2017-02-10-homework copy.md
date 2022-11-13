@@ -1,14 +1,14 @@
 ---
 title: Homework
-module: 11
+module: 12
 jotted: false
 ---
 
-# Homework 11
+# Homework 12
 
-1. Create a new table for the experiences.
-2. Access the experiences and then display them randomly for both the login and logout.
+In this homework, continue adding stored procedures into your registration and login, update and delete.  
 
+Additionally, make sure you are protected against SQL Injection attacks and cross-scripting attacks. Make sure you are now encrypting your passwords.
 
 <!--
 ### For players:
